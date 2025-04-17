@@ -1,0 +1,14 @@
+﻿  C_kimatsu.cpp
+C:\Users\motok\Documents\大学関連\大学3年次\春学期\プログラミングC言語2\第12回\C_kimatsu\PDCursesLib\include\curses.h(189,1): warning C4005: 'MOUSE_MOVED': マクロが再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\wincontypes.h(103,1): message : 'MOUSE_MOVED' の以前の定義を確認してください
+C:\Users\motok\Documents\大学関連\大学3年次\春学期\プログラミングC言語2\第12回\C_kimatsu\C_kimatsu\C_kimatsu.cpp(91,27): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\motok\Documents\大学関連\大学3年次\春学期\プログラミングC言語2\第12回\C_kimatsu\C_kimatsu\C_kimatsu.cpp(119,27): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\motok\Documents\大学関連\大学3年次\春学期\プログラミングC言語2\第12回\C_kimatsu\C_kimatsu\C_kimatsu.cpp(131,35): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\motok\Documents\大学関連\大学3年次\春学期\プログラミングC言語2\第12回\C_kimatsu\C_kimatsu\C_kimatsu.cpp(150,35): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+LINK : warning LNK4098: defaultlib 'LIBCMT' は他のライブラリの使用と競合しています。/NODEFAULTLIB:library を使用してください。
+  コード生成しています。
+  1 of 207 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  C_kimatsu.vcxproj -> C:\Users\motok\Documents\大学関連\大学3年次\春学期\プログラミングC言語2\第12回\C_kimatsu\Release\C_kimatsu.exe

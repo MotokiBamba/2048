@@ -1,0 +1,4 @@
+﻿  C_kimatsu.cpp
+C:\Users\motok\Documents\大学関連\大学3年次\春学期\プログラミングC言語2\第12回\C_kimatsu\C_kimatsu\C_kimatsu.cpp(5,10): fatal  error C1083: include ファイルを開けません。'curses.h':No such file or directory
+  method.cpp
+C:\Users\motok\Documents\大学関連\大学3年次\春学期\プログラミングC言語2\第12回\C_kimatsu\C_kimatsu\method.cpp(5,10): fatal  error C1083: include ファイルを開けません。'curses.h':No such file or directory
